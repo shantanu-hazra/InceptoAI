@@ -1,0 +1,22 @@
+[
+    {
+        "question_number": 2,
+        "question": "What is your experience with Google Cloud Platform's container management services?",
+        "answer": "no"
+    },
+    {
+        "question_number": 3,
+        "question": "What experience do you have with other container management platforms, such as Kubernetes or Docker Swarm?",
+        "answer": "no"
+    },
+    {
+        "question_number": 4,
+        "question": "Have you had any experience working with container orchestration tools such as Kubernetes or Docker Compose?",
+        "answer": "no"
+    },
+    {
+        "question_number": 5,
+        "question": "What experience do you have with containerization and microservices architectures?",
+        "answer": "no"
+    }
+]
